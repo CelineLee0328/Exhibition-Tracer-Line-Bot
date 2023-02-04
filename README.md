@@ -7,7 +7,7 @@ This is a Line Bot pracitce.
 <img src="https://github.com/CelineLee0328/Exihibition-Tracer-Line-Bot/blob/main/S__37797896.jpg" style=" width:240px ; height:500px "  >  
 
 ## Documentation  
-See the official API documentation for more information  
+The official API documentation:  
 https://developers.line.biz/en/docs/messaging-api/overview/  
 ## Requirements  
 Python >= 3.7  
