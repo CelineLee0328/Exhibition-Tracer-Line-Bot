@@ -10,4 +10,7 @@ This is a Line Bot pracitce.
 See the official API documentation for more information  
 https://developers.line.biz/en/docs/messaging-api/overview/  
 ## Requirements  
-Python >= 3.7
+Python >= 3.7  
+## Installation  
+    $ pip install line-bot-sdk  
+    $ pip install beautifulsoup4
