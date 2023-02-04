@@ -1,7 +1,4 @@
 # Exihibition Tracer with Line Bot
 This is a Line Bot pracitce.  
 Use BeautifulSoup to parsing "ibon ticket", "KKTIX", "tixcraft" and "yahoo news" website.
-<div style="width:60px ; height:60px">
-![image](https://github.com/CelineLee0328/Exihibition-Tracer-Line-Bot/blob/main/S__37797896.jpg).
-<div>
-<img src="https://github.com/CelineLee0328/Exihibition-Tracer-Line-Bot/blob/main/S__37797896.jpg" style=" width:60px ; height:60px "  >
+<img src="https://github.com/CelineLee0328/Exihibition-Tracer-Line-Bot/blob/main/S__37797896.jpg" style=" width:120px ; height:200px "  >
