@@ -13,4 +13,4 @@ https://developers.line.biz/en/docs/messaging-api/overview/
 Python >= 3.7  
 ## Installation  
     $ pip install line-bot-sdk  
-    $ pip install beautifulsoup4
+    $ pip install bs4
