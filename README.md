@@ -1,4 +1,4 @@
-# Exihibition Tracer
+# Exhibition Tracer
 This is a Line Bot pracitce.  
 ## Introduction  
 * Use BeautifulSoup to parsing "ibon ticket", "KKTIX", "tixcraft" and "yahoo news" website.  
